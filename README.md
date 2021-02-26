@@ -1,6 +1,6 @@
 # Spring Boot REST Swagger Example
 
-### Spring Boot example with REST and Spring Data JPA.
+### Spring Boot example with REST and Spring Data JPA
 
 ### Endpoints
 
